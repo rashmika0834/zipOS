@@ -1,2 +1,2 @@
-# MMP_OS
-Developing a little OS named MMP_OS
+# zipOS
+Developing my own OS named zipOS
